@@ -28,7 +28,6 @@ function playRound(playerSelection,computerSelection) {
     } else {
         return `You Lose! ${computerSelection} beats ${playerSelection}`
     }
-
 }
 
 function getPlayerChoice() {
